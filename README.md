@@ -1,4 +1,4 @@
-# Hi there, I'm Ajay 👋
+# Hello there, I'm Ajay 👋
 
  I'm a Front-end developer currently based in Mumbai, India. I'm a college student currently pursuing my Bachelor's degree in information technology. 
  I'm actively learning more about the various robust tools that I can get acquainted with and improve user experience elements in my projects. 
