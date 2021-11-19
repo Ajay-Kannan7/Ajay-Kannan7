@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Ajay 👋
 
-<!--
-**Ajay-Kannan7/Ajay-Kannan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a Front-end developer currently based in Mumbai, India. I'm a college student currently pursuing my Bachelor's degree in information technology. 
+ I'm actively learning more about the various robust tools that I can get acquainted with and improve user experience elements in my projects. 
+ I have a keen eye for whacky and cheeky animations.
 
-Here are some ideas to get you started:
+## My values
+🧠 Creative and analytical
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙌 Collaborative
+
+💡 Curiosity
+
+## Hobbies
+🏃🏼‍♀️ Running and aerobics
+
+⚽️ Watching and playing football
+
+🎧 Listening Music
+
+## Connect with me
+• A work in progress [Portfolio](https://ajaykannan.netlify.app/)
+
+• [LinkedIn](https://www.linkedin.com/in/ajay-kannan-8001301aa/)
+
+• [Facebook](https://www.facebook.com/profile.php?id=100008813537934)
+
+• [Instagram](https://www.instagram.com/ajaykannan__/)
