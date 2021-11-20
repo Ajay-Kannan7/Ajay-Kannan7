@@ -23,6 +23,4 @@
 
 • [LinkedIn](https://www.linkedin.com/in/ajay-kannan-8001301aa/)
 
-• [Facebook](https://www.facebook.com/profile.php?id=100008813537934)
-
 • [Instagram](https://www.instagram.com/ajaykannan__/)
