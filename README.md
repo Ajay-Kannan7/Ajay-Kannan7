@@ -24,3 +24,5 @@
 • [LinkedIn](https://www.linkedin.com/in/ajay-kannan-8001301aa/)
 
 • [Instagram](https://www.instagram.com/ajaykannan__/)
+
+[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-Kannan7&theme=tokyonight)](https://github.com/Ajay-Kannan7/github-readme-stats)
