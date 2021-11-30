@@ -17,7 +17,7 @@
 
 ⚽️ Watching and playing football
 
-🎧 Listening Music
+🎧 Listening to music
 
 ## Connect with me
 • A work in progress [Portfolio](https://ajaykannan.netlify.app/)
