@@ -1,5 +1,5 @@
 # Hello there, I'm Ajay 👋
-![Alt Text]([https://www.24x7dm.com/img/newimage/avento.gif])
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-engineer&psig=AOvVaw2pOUv0FXG-JeSraXSnp8Vg&ust=1653561896560000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKi89p-8-vcCFQAAAAAdAAAAABAV)
 
  I'm a Front-end developer currently based in Mumbai, India. I'm a college student currently pursuing my Bachelor's degree in information technology. 
  I'm actively learning more about various robust tools that I can get acquainted with and improve user experience elements in my projects. 
