@@ -1,5 +1,5 @@
 # Hello there, I'm Ajay 👋
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
+![Alt Text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
  I'm a Front-end developer currently based in Mumbai, India. I'm a college student currently pursuing my Bachelor's degree in information technology. 
  I'm actively learning more about various robust tools that I can get acquainted with and improve user experience elements in my projects. 
