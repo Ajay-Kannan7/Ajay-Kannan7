@@ -20,7 +20,7 @@
 🎧 Listening to music
 
 ## Connect with me
-• A work in progress [Portfolio](https://ajaykannan.netlify.app/)
+• [Portfolio](https://ajaykannan.netlify.app/)
 
 • [LinkedIn](https://www.linkedin.com/in/ajay-kannan-8001301aa/)
 
