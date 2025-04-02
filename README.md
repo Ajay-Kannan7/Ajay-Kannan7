@@ -1,9 +1,8 @@
 # Hello there, I'm Ajay 👋
 ![Alt Text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
- I'm a Front-end developer currently based in Mumbai, India. I'm a college student currently pursuing my Bachelor's degree in information technology. 
- I'm actively learning more about various robust tools that I can get acquainted with and improve user experience elements in my projects. 
- I have a keen eye for whacky and cheeky animations.
+I'm a project manager at a company called Kryptos and I've quite recently switched careers to transition into management and embrace my suite of strengths.
+I'm based in Chennai, India.
 
 ## My values
 🧠 Creative and analytical
